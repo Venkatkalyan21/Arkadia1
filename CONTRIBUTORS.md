@@ -299,10 +299,6 @@ cp -r packages/bot/src/games/template packages/bot/src/games/your-game
 - Statistics and achievement tracking
 - Tournament integration
 
-# 🔧 Updated CONTRIBUTING.md - Project Structure Section
-
-Add this section to your CONTRIBUTING.md after the "Game Development Guidelines" section:
-
 ## 🏗️ Project Structure & Isolation System
 
 ### 📂 Understanding Our Modular Architecture
@@ -475,7 +471,6 @@ packages/bot/src/games/trivia/
 - Check the template folder for examples
 - Review similar completed games for patterns
 
-This modular system ensures **you can contribute confidently** without worrying about breaking anyone else's work or having conflicts with other contributors. Focus on building an amazing game in your isolated module! 🎮✨
 ## 🏆 Recognition & Rewards
 
 ### Contributor Levels
