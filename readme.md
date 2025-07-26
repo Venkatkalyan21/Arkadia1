@@ -1,11 +1,4 @@
-# 📚 GameForge Documentation Suite
-
-Let's create comprehensive README files for your GSSOC project! Here are all four README files:
-
-## 🎯 Main README.md (Root Directory)
-
-
-# 🎮 GameForge - Open Source Gaming Community Platform
+# 🎮 Arkadia - Open Source Gaming Community Platform
 
 [![GSSOC 2025](https://img.shields.io/badge/GSSOC-2025-blue)](https://gssoc.girlscript.tech/)
 [![Contributors Welcome](https://img.shields.io/badge/contributors-welcome-brightgreen.svg)](CONTRIBUTING.md)
@@ -31,7 +24,7 @@ Instead of Discord servers needing dozens of different gaming bots, GameForge pr
 ## 🏗️ Architecture
 
 ```
-GameForge/
+Arkadia/
 ├── packages/
 │   ├── frontend/      # React + Vite web dashboard
 │   ├── backend/       # Express.js API server  
@@ -53,8 +46,8 @@ GameForge/
 ### Installation
 ```
 # Clone repository
-git clone https://github.com/yourusername/gameforge-platform.git
-cd gameforge-platform
+git clone https://github.com/yourusername/Arkadia.git
+cd Arkadia
 
 # Install dependencies
 pnpm install
@@ -94,17 +87,20 @@ We welcome contributors of all skill levels! GameForge offers diverse learning o
 
 ### 🟢 Beginner (Good First Issues)
 - React UI components
-- Discord bot commands
 - Game asset creation
+- Mini discord bot commands
 - Documentation improvements
 
 ### 🟡 Intermediate (Help Wanted)  
-- Complete game implementations
+- Discord bot games
+- Game implementations
 - API endpoint development
+### 🔴 Advanced (Major Features)
 - Real-time multiplayer features
 - Tournament bracket systems
+- Addition of new games / sustainable updates on existing games
 
-### 🔴 Advanced (Major Features)
+### 🔴 Future (Will think later)
 - Game engine architecture
 - AI integration
 - Performance optimization
