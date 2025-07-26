@@ -106,7 +106,7 @@ POST   /api/players/:id/score  # Update player score
 GET    /api/leaderboards       # Get leaderboards
 ```
 
-## ⚡ WebSocket Events
+## ⚡ WebSocket Events example
 
 ### Client → Server
 ```

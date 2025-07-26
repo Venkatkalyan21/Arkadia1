@@ -2,7 +2,7 @@
 
 ## 🤖 Bot README.md
 
-```markdown
+
 # 🤖 GameForge Discord Bot
 
 Advanced Discord bot providing gaming features, tournaments, and seamless integration with the GameForge web platform.

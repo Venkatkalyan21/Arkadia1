@@ -1,6 +1,6 @@
 ## 🌐 Frontend README.md
 
-```markdown
+
 # 🎨 GameForge Frontend
 
 Modern React-based web dashboard for the GameForge gaming community platform.

@@ -4,7 +4,7 @@ Let's create comprehensive README files for your GSSOC project! Here are all fou
 
 ## 🎯 Main README.md (Root Directory)
 
-```markdown
+
 # 🎮 GameForge - Open Source Gaming Community Platform
 
 [![GSSOC 2025](https://img.shields.io/badge/GSSOC-2025-blue)](https://gssoc.girlscript.tech/)
@@ -153,7 +153,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 Join us in building the future of open source gaming communities! 🚀
 
 ---
-
 **Made with ❤️ by the GameForge Community**
 ```
 
