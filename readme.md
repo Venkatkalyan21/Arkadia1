@@ -2,15 +2,15 @@
 
 [![GSSOC 2025](https://img.shields.io/badge/GSSOC-2025-blue)](https://gssoc.girlscript.tech/)
 [![Contributors Welcome](https://img.shields.io/badge/contributors-welcome-brightgreen.svg)](CONTRIBUTING.md)
-[![Discord](https://img.shields.io/badge/Discord-Community-7289DA)](https://discord.gg/gameforge)
+[![Discord](https://img.shields.io/badge/Discord-Community-7289DA)](https://discord.gg/SFJtzVsBj4)
 
-**The ultimate platform where developers collaborate to build, share, and play open source games together.**
+**The ultimate platform where developers collaborate to build, share, and play open source games together.** Please join the discord server https://discord.gg/SFJtzVsBj4 before you start contributing if you have any queries and doubts
 
 ---
 
 ## 🌟 Vision
 
-Instead of Discord servers needing dozens of different gaming bots, GameForge provides an integrated ecosystem where communities can play games, host tournaments, and collaborate on game development - all in one platform.
+Instead of Discord servers needing dozens of different gaming bots, Akashic Archives provides an integrated ecosystem where communities can play games, host tournaments, and collaborate on game development - all in one platform.
 
 ## ✨ Features
 
@@ -83,7 +83,7 @@ pnpm dev
 
 ## 🤝 Contributing to GSSOC 2025
 
-We welcome contributors of all skill levels! GameForge offers diverse learning opportunities:
+We welcome contributors of all skill levels! Akashic Archives offers diverse learning opportunities:
 
 ### 🟢 Beginner (Good First Issues)
 - React UI components
@@ -108,8 +108,8 @@ We welcome contributors of all skill levels! GameForge offers diverse learning o
 
 **Getting Started:**
 1. Read [CONTRIBUTING.md](CONTRIBUTING.md)
-2. Check [Issues](https://github.com/yourusername/gameforge/issues) labeled with your skill level
-3. Join our [Discord Community](https://discord.gg/gameforge)
+2. Check [Issues](https://github.com/yourusername/arkadia/issues) labeled with your skill level
+3. Join our [Discord Community](https://discord.gg/SFJtzVsBj4)
 4. Start with a `good-first-issue`!
 
 ## 📖 Documentation
@@ -141,7 +141,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 🌟 GSSOC 2025
 
-**Organization**: GameForge Community  
+**Organization**: Akashic Archives Community  
 **Mentor**: [Your Name]  
 **Project Type**: Full-Stack Gaming Platform  
 **Difficulty**: Beginner to Advanced  
@@ -149,6 +149,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 Join us in building the future of open source gaming communities! 🚀
 
 ---
-**Made with ❤️ by the GameForge Community**
+**Made with ❤️ by the Akashic Archives Community**
 ```
 
