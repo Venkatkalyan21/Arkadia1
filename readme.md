@@ -46,7 +46,7 @@ Arkadia/
 ### Installation
 ```
 # Clone repository
-git clone https://github.com/yourusername/Arkadia.git
+git clone https://github.com/BhairabMahnta/Arkadia.git
 cd Arkadia
 
 # Install dependencies
