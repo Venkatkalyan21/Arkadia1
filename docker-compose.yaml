@@ -1,0 +1,31 @@
+version: "3.9"
+
+services:
+  backend:
+    build:
+      context: .                           # root of monorepo
+      dockerfile: packages/backend/Dockerfile
+    container_name: arkadia-backend
+    ports:
+      - "3001:3001"                        # host:container
+    env_file:
+      - ./packages/backend/.env            # load backend env
+    command: ["node", "dist/index.js"]
+
+  bot:
+    build:
+      context: .                           # root of monorepo
+      dockerfile: packages/bot/Dockerfile
+    container_name: arkadia-bot
+    env_file:
+      - ./packages/bot/.env.prod                # load bot env
+    command: ["node", "dist/index.js"]
+
+  frontend:
+    build:
+      context: .                           # root of monorepo
+      dockerfile: packages/frontend/Dockerfile
+    container_name: arkadia-frontend
+    ports:
+      - "5173:80"                          # map host:container
+    restart: unless-stopped
