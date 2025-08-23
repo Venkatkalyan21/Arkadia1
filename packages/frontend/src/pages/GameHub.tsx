@@ -3,7 +3,6 @@ import { motion } from 'framer-motion';
 import { Search, Filter, Grid, List } from 'lucide-react';
 import { GameCard } from '../components/games/GameCard';
 import { ComingSoonPopup } from '../components/ui/ComingSoonPopup';
-import { Button } from '../components/ui/Button';
 import { mockGames } from '../data/mockGames';
 import { Game } from '../types';
 import { useNavigate } from 'react-router-dom';
