@@ -52,8 +52,7 @@ jobs:
           push: true
           tags: |
             akaimnky/arkadia-backend:latest
-            asia-south1-docker.pkg.dev/smart-rope-469816-u7/arkadia-docker/arkadia-backend:latest
-
+            
       - name: Build and push to Docker Hub & GAR for bot
         uses: docker/build-push-action@v4
         with:
@@ -62,7 +61,6 @@ jobs:
           push: true
           tags: |
             akaimnky/arkadia-bot:latest
-            asia-south1-docker.pkg.dev/smart-rope-469816-u7/arkadia-docker/arkadia-bot:latest
 
       - name: Build and push to Docker Hub & GAR for frontend
         uses: docker/build-push-action@v4
@@ -72,4 +70,3 @@ jobs:
           push: true
           tags: |
             akaimnky/arkadia-frontend:latest
-            asia-south1-docker.pkg.dev/smart-rope-469816-u7/arkadia-docker/arkadia-frontend:latest
