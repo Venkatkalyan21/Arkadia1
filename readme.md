@@ -10,7 +10,17 @@
 
 ## 🌟 Vision
 
-Instead of Discord servers needing dozens of different gaming bots, Akashic Archives provides an integrated ecosystem where communities can play games, host tournaments, and collaborate on game development - all in one platform.
+Why rely on multiple bots when you can have it all in one?
+
+**Akashic Archives** aims to be the all-in-one solution for Discord communities — a unified platform where users can:
+
+- 🎮 Play a wide variety of games together  
+- 🏆 Host and manage tournaments with ease  
+- 🛠️ Collaborate on game development and modding  
+- 🤝 Engage through interactive, community-driven features
+
+Instead of juggling dozens of bots with fragmented features, **Akashic Archives** delivers a seamless ecosystem built for gamers, developers, and communities alike — **all under one roof.**
+
 
 ## ✨ Features
 
@@ -106,11 +116,28 @@ We welcome contributors of all skill levels! Akashic Archives offers diverse lea
 - Performance optimization
 - Cross-platform synchronization
 
-**Getting Started:**
-1. Read [CONTRIBUTING.md](CONTRIBUTING.md)
-2. Check [Issues](https://github.com/yourusername/arkadia/issues) labeled with your skill level
-3. Join our [Discord Community](https://discord.gg/SFJtzVsBj4)
-4. Start with a `good-first-issue`!
+## 🚀 Getting Started
+
+Ready to make your first contribution to **Akashic Archives** during **GSSOC 2025**? Follow these simple steps to get started:
+
+1. 📄 **Read our [CONTRIBUTING.md](CONTRIBUTING.md)**  
+   Familiarize yourself with the contribution guidelines, coding standards, and PR process.
+
+2. 🔍 **Browse [Open Issues](https://github.com/yourusername/arkadia/issues)**  
+   Look for issues labeled based on your experience level:
+   - `good first issue` – Ideal for beginners  
+   - `help wanted` – For intermediate contributors  
+   - `enhancement` or `feature` – For advanced developers
+
+3. 💬 **Join our [Discord Community](https://discord.gg/SFJtzVsBj4)**  
+   Connect with mentors, ask questions, and collaborate with fellow contributors.
+
+4. 🛠️ **Start with a `good first issue`**  
+   Fork the repository, create a new branch, and begin your contribution. Don’t worry — we’re here to help you along the way!
+
+---
+
+🙌 **Tip:** Every expert was once a beginner. Ask questions, explore, and most importantly — have fun contributing!
 
 ## 📖 Documentation
 
@@ -119,14 +146,32 @@ We welcome contributors of all skill levels! Akashic Archives offers diverse lea
 - [API Documentation](packages/docs/api.md)
 - [Discord Bot Commands](packages/docs/bot-commands.md)
 - [Contributing Guidelines](CONTRIBUTING.md)
-
 ## 🛠️ Tech Stack
 
-- **Frontend**: React 18, TypeScript, Vite, Tailwind CSS
-- **Backend**: Node.js, Express, Socket.io, PostgreSQL
-- **Bot**: Discord.js v14, TypeScript
-- **Real-time**: WebSocket (Socket.io)
-- **Package Manager**: pnpm workspaces
+A modern and modular tech stack powers **Akashic Archives**, enabling performance, scalability, and developer productivity.
+
+### 🌐 Frontend
+- **React 18** – Component-based UI library for building dynamic interfaces  
+- **TypeScript** – Static typing for safer and scalable JavaScript  
+- **Vite** – Lightning-fast build tool and development server  
+- **Tailwind CSS** – Utility-first CSS framework for responsive design
+
+### 🧠 Backend
+- **Node.js** – JavaScript runtime for building scalable server-side applications  
+- **Express** – Minimalist framework for building RESTful APIs  
+- **Socket.io** – Enables real-time, bidirectional communication  
+- **PostgreSQL** – Powerful, open-source relational database system
+
+### 🤖 Discord Bot
+- **Discord.js v14** – Powerful library for building Discord bots  
+- **TypeScript** – For type safety and maintainability
+
+### 🔄 Real-Time Communication
+- **WebSocket (via Socket.io)** – Ensures low-latency, real-time multiplayer and game interactions
+
+### 📦 Package Management
+- **pnpm Workspaces** – Fast, disk-efficient package manager with monorepo support
+
 
 ## 📊 Project Status
 
